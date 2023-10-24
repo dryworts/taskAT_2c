@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ual0s3319u8bfsko/branch/main?svg=true)](https://ci.appveyor.com/project/dryworts/taskat-2/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/h2udp06u12bp1dd4/branch/main?svg=true)](https://ci.appveyor.com/project/dryworts/taskat-2c/branch/main)
